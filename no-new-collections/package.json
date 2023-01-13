@@ -1,0 +1,9 @@
+{
+  "name": "firebase-security-rules-recipes",
+  "type": "module",
+  "scripts": {
+    "test": "npx firebase emulators:exec ava",
+    "start": "npx firebase emulators:start",
+    "ava": "ava"
+  }
+}
